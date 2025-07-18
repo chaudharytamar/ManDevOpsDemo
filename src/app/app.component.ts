@@ -15,6 +15,6 @@ export class AppComponent {
   }
   ngOnInit():void
   {
-   console.log("ngOnInit called");
+   console.log("ngOnInit called 2");
   }
 }
